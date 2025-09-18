@@ -109,7 +109,7 @@ that functionality is very low level and not interesting to our Dogs.
 ### Building Your Own Instance Methods
 
 If you haven't already, fork and clone this lab to your local environment and
-run `learn test`. Follow along below to get the first few tests for the `Dog`
+run `bin/rspec`. Follow along below to get the first few tests for the `Dog`
 class to pass. Once you have those passing, you will complete the remaining
 tasks on your own.
 
